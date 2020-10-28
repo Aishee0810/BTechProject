@@ -10,5 +10,6 @@ For Face Detection, HAAR Cascade and HOG methods have been used. For Face Recogn
 Network have been used.
 Preprocessing involving Canny Edge Detection, Sharp and inverse, and Sobel Edge Detection had also been performed, but it was not of much significance to the
 project. 
+
 Codes for all the processes involved can be found in this folder.
 
