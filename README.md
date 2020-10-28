@@ -5,6 +5,7 @@ involved in this approach are:
 1. Capture image/video streams via CCTV cameras in lecture halls 
 2. Involves detection of the faces of multiple students from the photograph
 3. Detected faces are queried, matched with faces from student database 
+
 For Face Detection, HAAR Cascade and HOG methods have been used. For Face Recognition, Principal Components Analysis, Local Binary Patterns Histograms and Siamese
 Network have been used.
 Preprocessing involving Canny Edge Detection, Sharp and inverse, and Sobel Edge Detection had also been performed, but it was not of much significance to the
